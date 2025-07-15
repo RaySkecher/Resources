@@ -22,15 +22,15 @@ scylotyes@gmail.com
 ## Github Accounts
 https://github.com/people/I-dont-knoww
 
-https://github.com/orgs/people/oimk
+https://github.com/people/oimk
 
-https://github.com/orgs/people/PenguinDaBozo
+https://github.com/people/PenguinDaBozo
 
-https://github.com/orgs/people/Sp1me
+https://github.com/people/Sp1me
 
-https://github.com/orgs/people/zebulontaylor
+https://github.com/people/zebulontaylor
 
-https://github.com/orgs/people/ZimengXiong
+https://github.com/people/ZimengXiong
 
 ## Google Drive Link
 https://drive.google.com/drive/folders/1pgei0iTnxssSRNPoWhwc4Ws-BEMtu2Im?usp=sharing
