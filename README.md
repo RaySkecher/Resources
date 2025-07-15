@@ -1,4 +1,6 @@
 # Resources
+## Potential Projects
+[PotentialProjects.md](PotentialProjects.md)
 
 ## Learning Stuff
 By Friday:
