@@ -20,17 +20,17 @@ sunmatthewsun@gmail.com
 scylotyes@gmail.com
 
 ## Github Accounts
-https://github.com/people/I-dont-knoww
+https://github.com/I-dont-knoww
 
-https://github.com/people/oimk
+https://github.com/oimk
 
-https://github.com/people/PenguinDaBozo
+https://github.com/PenguinDaBozo
 
-https://github.com/people/Sp1me
+https://github.com/Sp1me
 
-https://github.com/people/zebulontaylor
+https://github.com/zebulontaylor
 
-https://github.com/people/ZimengXiong
+https://github.com/ZimengXiong
 
 ## Google Drive Link
 https://drive.google.com/drive/folders/1pgei0iTnxssSRNPoWhwc4Ws-BEMtu2Im?usp=sharing
