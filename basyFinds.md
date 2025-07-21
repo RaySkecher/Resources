@@ -5,3 +5,8 @@ i dont have basys but supposedly this is whawt ur supposed to do
 
 i just used one of the fixed options for now
 
+and then u click file new application project and use the basys3 platform
+
+choose a template code  and right click the created project and build upon that 
+
+connect baord to computer and that's it
