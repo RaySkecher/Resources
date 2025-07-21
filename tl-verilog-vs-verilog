@@ -1,0 +1,4 @@
+TL-verilog is more abstract when compared to verilog. Verilog is register transfer level, while TL-verilog is transaction level.
+A tool called SandPiper can take TL-verilog and generate normal verilog or systemverilog, and I think you can put the normal verilog into an FPGA.
+Apparently most projects use SandPiper SaaS which "provides a command-line interface to run SandPiper in the cloud". You have to request SandPiper education edition if you wanna run locally.
+TL-X is a set of languages or something where you add transaction level stuff to languages like verilog, system verilog, VHDL, and system-c.
