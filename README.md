@@ -10,6 +10,9 @@ By Friday:
 By Sunday:
 - [Raytracing in a weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
+By Tuesday:
+- [Vitis Introduction](https://github.com/RaySkecher/Resources/blob/main/VitisTutorial.md)
+
 ## Emails
 zebbbtaylor@gmail.com
 
