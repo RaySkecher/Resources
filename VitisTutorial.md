@@ -68,4 +68,6 @@ After that, run C synthesis.
 
 Then, run implementation. This may take a while (took ~2min on my laptop).
 
+Now, look under `syn/verilog` to see the generated verilog.
+
 Good job! You built a component from just C! I will work on updating this later tonight or tomorrow on how to open it in Vivado, so stay tuned.
